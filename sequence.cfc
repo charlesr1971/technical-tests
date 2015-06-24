@@ -5,12 +5,12 @@
 AUTHOR: Charles Robertson
 COMPANY: CDESIGN
 DATE: 04.2013
-DESCRIPTION: Sequencer 
+DESCRIPTION: Sequence 
 
 -->
 
 
-<cfcomponent displayname="Sequencer" hint="component description: creates functions that create sequencer">
+<cfcomponent displayname="sequence" hint="component description: provides functions that create sequences">
 
 
 	<!-- FUNCTION: constructor -->
@@ -25,7 +25,7 @@ DESCRIPTION: Sequencer
     
     <!-- FUNCTION UDF: outputs a fibonacci sequence -->
 
-    <cffunction name="Fibonacci" access="public" returntype="string" output="false" hint="function description: outputs a fibonacci sequence">
+    <cffunction name="Fibonacci" access="public" returntype="string" output="false" hint="function description: outputs a fibonacci number sequence">
       <!-- arguments -->
       <cfargument name="n" required="true" type="numeric" default="1" hint="argument description: n">
       <cfargument name="m" required="true" type="numeric" default="1" hint="argument description: m">
