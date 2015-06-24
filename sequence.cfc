@@ -15,7 +15,7 @@ DESCRIPTION: Sequence
 
 	<!-- FUNCTION: constructor -->
 
-	<cffunction name="init" access="public" output="false" hint="function description: constructor function for the base component">
+	<cffunction name="init" access="public" output="false" hint="function description: constructor function for the sequence component">
       <!-- arguments -->
       <!-- local variables -->
       <!-- cfc variables, accessible to all methods -->
