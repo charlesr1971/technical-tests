@@ -5,7 +5,7 @@
 AUTHOR: Charles Robertson
 COMPANY: CDESIGN
 DATE: 24.06.2015
-DESCRIPTION: Sequence 
+DESCRIPTION: Coldfusion component providing functions that create data sequences
 
 -->
 
