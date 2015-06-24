@@ -13,7 +13,7 @@ DESCRIPTION: Sequence
 <cfcomponent displayname="sequence" hint="component description: provides functions that create sequences">
 
 
-    <!-- FUNCTION: constructor -->
+    <!-- FUNCTION INIT: constructor -->
     
     <cffunction name="init" access="public" output="false" hint="function description: constructor function for the sequence component">
       <!-- arguments -->
